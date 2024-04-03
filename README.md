@@ -67,9 +67,7 @@ Welcome to the JCC Enquiry Bot! This bot is designed to assist users with any qu
 ![image](https://github.com/Tanvidubey/jcc-enquiry-bot/assets/92937290/6a8e7dd4-94e4-4bac-b5e6-6eb866241dbc)
 
 
-## Additional Resources
-
-- **Website**: [JCC Website](https://www.jims.in/)
+Feel free to try and give feedbacks: [JCC Enquiry Bot](https://jcc-enquiry-bot.streamlit.app/?embed_options=dark_theme)
 
 Thank you for using the JCC Enquiry Bot. We hope you find it helpful!
 
